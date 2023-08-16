@@ -1,5 +1,5 @@
 ## Hello! 👋 Welcome to my Github profile!  
-### My name is Otávio Rizzatti Tedesco, but you can call me OT. I'm a second period student of Analisys and system development at IFRS. 
+### My name is Otávio! I'm a second period student of Analisys and system development at IFRS. 
 
 
 
@@ -33,7 +33,6 @@
 
 
 
-![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/otaviotedesco/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/otavio.rizzattitedesco/)
 [![Linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ot%C3%A1vio-rizzatti-tedesco-a18099142/)

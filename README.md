@@ -41,8 +41,6 @@
 
 
 
-![OT GitHub stats](https://github-readme-stats.vercel.app/api?username=otaviotedesco&show_icons=true&theme=merko)
-
 
 
 

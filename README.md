@@ -1,5 +1,5 @@
 ## Hello! 👋 Welcome to my Github profile!  
-### My name is Otávio! I'm a second period student of Analisys and system development at IFRS. 
+### My name is Otávio! I'm a third period student of Analisys and system development at IFRS. 
 
 
 

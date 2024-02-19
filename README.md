@@ -1,5 +1,5 @@
 ## Bem-vindos!  
-### Sou Otávio; atualmente, dentre muitas outras coisas, estudante de 3º Semestre em Análise e Desenvolvimento de Sistemas. 
+### Sou Otávio; atualmente, entre muitas outras coisas, estudante de 3º Semestre em Análise e Desenvolvimento de Sistemas. 
 
 
 

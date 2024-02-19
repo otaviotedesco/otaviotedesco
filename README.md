@@ -1,5 +1,5 @@
-## Hello! 👋 Welcome to my Github profile!  
-### My name is Otávio! I'm a third period student of Analisys and system development at IFRS. 
+## Bem-vindos!  
+### Sou Otávio; atualmente, dentre muitas outras coisas, estudante de 3º Semestre em Análise e Desenvolvimento de Sistemas. 
 
 
 
@@ -7,7 +7,7 @@
 
 
 
-## 🧑‍💻 I'm familiar with;
+## 🧑‍💻 Familiarizado com;
 
 <div style="display: inline_block"> <br>
 <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -17,7 +17,7 @@
 <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </div>
 
-## 🌱 I’m currently learning;
+## 🌱 Aprendendo e aperfeiçoando;
 
 <div style="display: inline_block"> <br>
 
@@ -28,7 +28,7 @@
 <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 
 
-## You can reach me by the links below! ⬇️
+## Contatos! ⬇️
 
 
 
